@@ -1,0 +1,15 @@
+时间戳记,邮箱,值班Helper名字,"可以值班的时间（多选，请选择所有你可以值班的时间，选项中连续天数至少为两天, 一个月中至少有两个星期里面有连续的时间）"
+4/19/2018 17:54:45,A@email.com,A,05.07 Mon; 05.08 Tue; 05.09 Wed; 05.10 Thr; 05.15 Tue; 05.16 Wed; 05.17 Thr; 05.28 Mon; 05.29 Tue; 05.30 Wed; 05.31 Thr
+4/19/2018 19:01:36,B@email.com,B,05.07 Mon; 05.08 Tue; 05.09 Wed; 05.10 Thr; 05.14 Mon; 05.15 Tue; 05.16 Wed; 05.17 Thr
+4/19/2018 19:03:44,C@email.com,C,05.21 Mon; 05.22 Tue; 05.23 Wed; 05.24 Thr; 05.25 Fri; 05.26 Sat; 05.27 Sun; 05.28 Mon; 05.29 Tue; 05.30 Wed; 05.31 Thr
+4/19/2018 19:35:22,D@email.com,D,05.03 Thr; 05.04 Fri
+4/20/2018 0:31:41,E@email.com,E,05.13 Sun; 05.14 Mon; 05.15 Tue; 05.16 Wed; 05.17 Thr; 05.18 Fri; 05.19 Sat; 05.20 Sun; 05.23 Wed; 05.24 Thr; 05.25 Fri; 05.28 Mon; 05.29 Tue; 05.30 Wed; 05.31 Thr
+4/20/2018 11:27:45,F@email.com,F,05.01 Tue; 05.02 Wed; 05.03 Thr; 05.06 Sun; 05.07 Mon; 05.08 Tue; 05.09 Wed; 05.10 Thr; 05.13 Sun; 05.14 Mon; 05.15 Tue; 05.16 Wed; 05.17 Thr; 05.20 Sun; 05.21 Mon; 05.22 Tue; 05.23 Wed; 05.24 Thr; 05.27 Sun; 05.28 Mon; 05.29 Tue; 05.30 Wed; 05.31 Thr
+4/20/2018 13:24:32,G@email.com,G,05.07 Mon; 05.08 Tue; 05.10 Thr; 05.14 Mon; 05.15 Tue; 05.16 Wed; 05.17 Thr; 05.18 Fri; 05.21 Mon; 05.22 Tue; 05.23 Wed; 05.24 Thr; 05.25 Fri; 05.28 Mon; 05.29 Tue; 05.30 Wed; 05.31 Thr
+4/20/2018 15:53:06,H@email.com,H,05.12 Sat; 05.13 Sun; 05.19 Sat; 05.20 Sun; 05.25 Fri; 05.26 Sat
+4/21/2018 16:36:06,I@email.com,I,All
+4/22/2018 20:54:16,J@email.com,J,05.07 Mon; 05.08 Tue; 05.09 Wed; 05.10 Thr; 05.14 Mon; 05.15 Tue; 05.16 Wed; 05.17 Thr; 05.21 Mon; 05.22 Tue; 05.23 Wed; 05.24 Thr; 05.28 Mon; 05.29 Tue; 05.30 Wed; 05.31 Thr
+4/23/2018 14:09:25,K@email.com,K,05.01 Tue; 05.02 Wed; 05.03 Thr; 05.04 Fri; 05.05 Sat; 05.06 Sun; 05.07 Mon; 05.08 Tue; 05.09 Wed; 05.16 Wed; 05.17 Thr; 05.18 Fri; 05.19 Sat; 05.20 Sun; 05.21 Mon; 05.22 Tue; 05.23 Wed; 05.24 Thr; 05.25 Fri
+4/26/2018 18:10:02,L@email.com,L,05.02 Wed; 05.07 Mon; 05.08 Tue; 05.09 Wed; 05.10 Thr; 05.14 Mon; 05.15 Tue; 05.16 Wed; 05.17 Thr; 05.23 Wed; 05.24 Thr; 05.27 Sun; 05.28 Mon; 05.29 Tue; 05.30 Wed; 05.31 Thr
+4/26/2018 18:11:39,M@email.com,M,05.02 Wed; 05.03 Thr; 05.07 Mon; 05.08 Tue; 05.09 Wed; 05.10 Thr; 05.14 Mon; 05.15 Tue; 05.16 Wed; 05.17 Thr; 05.23 Wed; 05.24 Thr; 05.28 Mon; 05.29 Tue; 05.30 Wed; 05.31 Thr
+4/29/2018 12:20:02,N@email.com,N,05.01 Tue; 05.02 Wed; 05.03 Thr; 05.04 Fri; 05.07 Mon; 05.08 Tue; 05.09 Wed; 05.10 Thr; 05.11 Fri; 05.14 Mon; 05.15 Tue; 05.16 Wed; 05.17 Thr; 05.18 Fri; 05.21 Mon; 05.22 Tue; 05.23 Wed; 05.24 Thr; 05.25 Fri; 05.28 Mon; 05.29 Tue; 05.30 Wed; 05.31 Thr
